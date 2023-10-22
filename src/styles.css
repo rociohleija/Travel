@@ -87,7 +87,7 @@ body {
   
   header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-      url("../images/lisbon.png");
+    url('../images/houston.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -186,7 +186,7 @@ body {
         rgba(39, 32, 68, 0.9),
         rgba(39, 32, 68, 0.9)
       ),
-      url('../images/houston.jpg');
+      url("../images/we-love-houston.jpg");
   
     background-repeat: no-repeat;
     background-size: cover;
