@@ -60,6 +60,11 @@ body {
   .card-footer {
     padding: 0 30px 30px;
   }
+
+  .img-card{
+    max-height: 183px;
+    object-fit: cover;
+  }
   
   .btn {
     display: block;
